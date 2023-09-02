@@ -1,0 +1,12 @@
+[
+    { "names": ["брод (н/к)", "переправа (н/к)"], "is_event": true, "code": 1, "equivalent": 0.5 },
+    { "names": ["спуск (н/к)", "подъём (н/к)"], "is_event": false, "code": 7, "equivalent": 1.5 },
+    { "names": ["каньон (н/к)"], "is_event": false, "code": 10, "equivalent": 0.5 },
+    { "names": ["болото (н/к)"], "is_event": false, "code": 13, "equivalent": 1.5 },
+    { "names": ["осыпь (н/к)", "морена (н/к)"], "is_event": false, "code": 16, "equivalent": 2.0 },
+    { "names": ["каменный завал (н/к)"], "is_event": true, "code": 19, "equivalent": 2.0 },
+    { "names": ["пески (н/к)"], "is_event": false, "code": 22, "equivalent": 0.5 },
+    { "names": ["растительный покров (н/к)"], "is_event": false, "code": 24, "equivalent": 0.5 },
+    { "names": ["снежно-ледовый участок (н/к)"], "is_event": false, "code": 29, "equivalent": 2.0 },
+    { "names": ["одиночное (н/к)"], "is_event": true, "code": 33, "equivalent": 0.5 }
+]
