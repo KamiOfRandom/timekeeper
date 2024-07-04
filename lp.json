@@ -7,6 +7,8 @@
     { "names": ["каменный завал (н/к)"], "is_event": true, "code": 19, "equivalent": 2.0 },
     { "names": ["пески (н/к)"], "is_event": false, "code": 22, "equivalent": 0.5 },
     { "names": ["растительный покров (н/к)"], "is_event": false, "code": 24, "equivalent": 0.5 },
+    { "names": ["растительный покров (1а)"], "is_event": false, "code": 25, "equivalent": 1.5 },
+    { "names": ["растительный покров (1б)"], "is_event": false, "code": 26, "equivalent": 3.0 },
     { "names": ["снежно-ледовый участок (н/к)"], "is_event": false, "code": 29, "equivalent": 2.0 },
     { "names": ["одиночное (н/к)"], "is_event": true, "code": 33, "equivalent": 0.5 }
 ]
